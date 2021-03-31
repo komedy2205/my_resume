@@ -1,0 +1,210 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #f5f7fa;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  padding-left: 20px;
+  padding-right: 20px;
+  font-family: Montserrat;
+}
+
+.wrapper {
+  background: #ffffff;
+  display: flex;
+  max-width: 1200px;
+  margin: 0 auto;
+  box-shadow: 5px 9px 20px rgba(0, 0, 0, 0.15);
+}
+
+.sidebar {
+  background: #1e2939;
+  width: 370px;
+  height: 1319px;
+  background-color: #1e2939;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.photo {
+  width: 370px;
+}
+
+.about-me {
+  padding-left: 90px;
+  padding-right: 90px;
+  padding-top: 110px;
+  padding-bottom: 110px;
+}
+
+.contacts-container {
+  margin-top: 60 px;
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-bottom: 55px;
+}
+
+.contacts-title {
+  color: #ffffff;
+  font-weight: 700;
+  font-style: normal;
+  letter-spacing: normal;
+}
+
+.contacts-line {
+  color: #ffffff;
+  font-size: 14px;
+  font-weight: 400;
+}
+
+.E {
+  color: #ffffff;
+  font-size: 14px;
+  font-weight: 700;
+  margin-right: 10px;
+}
+
+.C {
+  color: #ffffff;
+  font-size: 14px;
+  font-weight: 700;
+  margin-right: 10px;
+}
+.tech-skills {
+  color: #ffffff;
+  font-size: 22px;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+
+.tsc {
+  margin-top: 55 px;
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-bottom: 20px;
+}
+
+.tech-skills-index {
+  line-height: 24px;
+  font-size: 14px;
+  font-weight: 400;
+  color: #ff6b08;
+  margin-left: 20px;
+}
+
+.tech-skills-text {
+  color: #ffffff;
+  margin-bottom: 20px;
+}
+
+.soft-skills-container {
+  margin-top: 55 px;
+  margin-left: 40px;
+  margin-right: 40px;
+  color: #ffffff;
+}
+
+.soft-skills-index {
+  line-height: 24px;
+  font-size: 14px;
+  font-weight: 400;
+  color: #ff6b08;
+  margin-left: 20px;
+}
+
+.soft-skills-title {
+  color: #ffffff;
+  font-size: 22px;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+
+.soft-skills-text {
+  color: #ffffff;
+}
+.profession {
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-bottom: 23px;
+}
+.name {
+  font-size: 25px;
+  font-weight: 700;
+  line-height: 24px;
+}
+.discription {
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-bottom: 65px;
+}
+.about-me-title {
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-bottom: 25px;
+  margin-top: 25px;
+}
+.projects-link {
+  color: #595959;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+}
+.techname {
+  color: #595959;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+}
+.dots {
+  color: #595959;
+  font-weight: 100;
+}
+.projects-item {
+  font-weight: 700;
+  margin-left: 17px;
+}
+.profession-title {
+  margin-top: 10px;
+  color: #080505;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-bottom: 15px;
+}
+.profession-duties {
+  margin-top: 15px;
+  margin-bottom: 30px;
+}
+.profession-duties-item {
+  color: #595959;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+}
+.academy {
+  color: #ff6b08;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-bottom: 15px;
+}
+.specialisation {
+  color: #000000;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-bottom: 10px;
+}
+.philolog {
+  color: #a8a8a8;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 24px;
+}
